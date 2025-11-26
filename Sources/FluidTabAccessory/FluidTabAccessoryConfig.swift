@@ -25,7 +25,7 @@ struct FluidTabAccessoryConfig {
 extension FluidTabAccessoryConfig {
     static let `default` = FluidTabAccessoryConfig(
         height: 44,
-        cornerRadius: height / 2,
+        cornerRadius: 22,
         backgroundColor: .clear,
         backgroundOpacity: 0.0,
         padding: 4
